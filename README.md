@@ -21,13 +21,13 @@ Design Pattern:
 
 I used the Composite pattern to create Lendables that can be used to store different types of things in the library, e.g. Books and Book Collections.
 
-##Here are the class diagram and license file.
+## Here are the class diagram and license file.
 
 [Class Diagram](/src/site/markdown/design.md)
 
 [License file](/LICENSE)
 
-##Problems
+## Problems
 The main problems I ran into and did not solve completely are:
 
 - The lender counter is always 0.
